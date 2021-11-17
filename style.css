@@ -156,6 +156,10 @@ img {
     margin-top: 20px;
   }
 
+  #why .row > .first, #why .row > .second, #why .row > .third{
+    margin-top:20px;
+  }
+
   img{
     height: 120px;
   }
